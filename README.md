@@ -10,11 +10,11 @@ Anda akan diminta untuk melakukan eksperimen 3-5 kali percobaan dengan notebook 
 
 Pada tahapan ini, pertama-tama lakukanlah data loading beserta labelnya, gunakan nama folder sebagai labelnya. Lakukan penyeragaman ukuran dari dataset dengan resize, bisa menggunakan 150x150 atau 300x300. Selanjutnya, Anda diminta untuk melakukan eksplorasi data untuk memahami karakteristik data yang digunakan. Anda dapat menampilkan jumlah data, karakteristik data (kondisi background, noise, pencahyaan, dll), distribusi data, sampel data, dan lainnya. Hal ini bertujuan untuk memahami data yang akan digunakan dalam proses klasifikasi, sehingga dapat memilih teknik preprocessing yang tepat ataupun penanganan jika terdapat data yang tidak seimbang. Berikut merupakan contohnya:
 
-![alt text](https://github.com/Digital-Image-Processing-2024/Jurnal-Modul-6/blob/main/module%20source/image-0.png?raw=true)
+![alt text](https://github.com/Digital-Image-Processing-2024/Soal-Modul-6/blob/main/module%20source/image-0.png?raw=true)
 
 Gambar 1. Contoh Visualisasi Distribusi Data
 
-![alt text](https://github.com/Digital-Image-Processing-2024/Jurnal-Modul-6/blob/main/module%20source/image-1.png?raw=true)
+![alt text](https://github.com/Digital-Image-Processing-2024/Soal-Modul-6/blob/main/module%20source/image-1.png?raw=true)
 
 Gambar 2. Contoh Sampel Data
 
@@ -24,7 +24,7 @@ Gambar 2. Contoh Sampel Data
 
 Pada bagian awal dari tahap ini, Anda **diwajibkan** untuk menerapkan teknik **image augmentation** untuk menambah jumlah data.
 
-![alt text](https://github.com/Digital-Image-Processing-2024/Jurnal-Modul-6/blob/main/module%20source/image-2.png?raw=true)
+![alt text](https://github.com/Digital-Image-Processing-2024/Soal-Modul-6/blob/main/module%20source/image-2.png?raw=true)
 
 Gambar 3. Contoh Image Augmentation
 
@@ -86,7 +86,7 @@ Tabel 2. Contoh Hasil Evaluasi dalam Format Tabel
 | SVM           | 0.976333 | 0.976319  | 0.976333 | 0.976333 |
 | Random Forest | 0.959667 | 0.959822  | 0.959667 | 0.959615 |
 
-![alt text](https://github.com/Digital-Image-Processing-2024/Jurnal-Modul-6/blob/main/module%20source/image-3.png?raw=true)
+![alt text](https://github.com/Digital-Image-Processing-2024/Soal-Modul-6/blob/main/module%20source/image-3.png?raw=true)
 
 Gambar 4. Contoh Hasil Evaluasi dengan Confusion Matrix
 
